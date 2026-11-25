@@ -76,4 +76,5 @@ if __name__=='__main__':
         # verde 
         # amarillo
         # fua voludo si funciona esta wea
+        # che boludo
         
